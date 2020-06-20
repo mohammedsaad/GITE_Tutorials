@@ -12,7 +12,7 @@
   * [2.3 Gesundheitswesen](#23-Gesundheitswesen)
   * [2.4 Finanzen](#24-Finanzen)
   * [2.5 Andere](#25-Andere)
-- [3 Vor- und Nachteile](#3-Vor- und Nachteile)
+- [3 Vor- und Nachteile](#3-Vor-und-Nachteile)
   * [3.1 Vorteile](#31-Vorteile)
   * [3.2 Nachteile](#32-Nachteile)
 - [4 Regeln](#4-Regeln)
@@ -89,14 +89,14 @@ Aber was genau ist Datenvisualisierung?
 ## 5 Formen von Datenvisualisierung
 - Im folgenden werden einigen Formen der Datenvisualisierung dargestellt. ES gibt natürlich noch mehr Areten der Visualisierung
 ### 5.1 Indikator
-- ! [Indikator](Abbildung_4.png)
+- ![Indikator](Abbildung_4.png)
 ### 5.2 Balkendiagramm
-- ! [Balkendiagramm](Abbildung_5.png)
+- ![Balkendiagramm](Abbildung_5.png)
 ### 5.3 Tortendiagramm
-- ! [Tortendiagramm](Abbildung_6.jpg)
+- ![Tortendiagramm](Abbildung_6.jpg)
 ### 5.4 Flächendiagramm
-- ! [Flächendiagramm](Abbildung_7.png)
+- ![Flächendiagramm](Abbildung_7.png)
 ### 5.5 Scatter Chart
-- ! [Scatter Chart](Abbildung_8.png)
+- ![Scatter Chart](Abbildung_8.png)
 ### 5.6 Area Map
-- ! [Area Map](Abbildung_9.jpg)
+- ![Area Map](Abbildung_9.jpg)
