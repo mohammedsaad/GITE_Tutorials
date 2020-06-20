@@ -45,22 +45,22 @@ Aber was genau ist Datenvisualisierung?
 
 ## 2 Nutzungsgebiet von Datenvisualisierungen
 ### 2.1 Politik
-- In der Politik werden Wahlergebniss immer als Visualisierung angezeigt um es dem Publikum verstadlich zu machen und es einfachr ist auf z. B. Balkendiagramme zu gucken als auf die "nackten Zahlen"
+- In der Politik werden Wahlergebnisse immer als Visualisierung angezeigt um es dem Publikum verständlich zu machen und es einfacher ist auf z. B. Balkendiagramme zu gucken als auf die "nackten Zahlen".
 ### 2.2 Naturwissenschaft
-- In Zeiten von Big Data gehört die Datenanalyse zu den wohl wichtigsten Beschaftigungen in jeder so gu wie jeder Naturwisenschaft. Ob Mthematik, Informatik oder andere andere Naturwissenschaften, das Analysieren der Daten ist ezzeentiell um die Forschungsergebnisse zu belegen. Diese Ergebniss werden in fast alle Fällen als Visualisierung dargestellt um es auch dem Publikum verständlich zu machen, dass nicht so viel ERfahrung in dem Themenfeld hat.
+- In Zeiten von Big Data gehört die Datenanalyse zu den wohl wichtigsten Beschäftigungen in so gut wie jeder Naturwissenschaft. Ob Mathematik, Informatik oder andere Naturwissenschaften, das Analysieren der Daten ist essentiell um die Forschungsergebnisse zu belegen. Diese Ergebnis werden in fast alle Fällen als Visualisierung dargestellt um es auch dem Publikum verständlich zu machen, dass nicht so viel Erfahrung in dem Themenfeld hat.
 ### 2.3 Gesundheitswesen
-- Auch im Gesundheitswesen werden DAtenvisualisierungen genutzt. Zum Beispel die ausbreitung einer Krankheit kann sehr gut auf einer Karte visualisiert werden
+- Auch im Gesundheitswesen werden Datenvisualisierungen genutzt. Zum Beispel die Ausbreitung einer Krankheit kann sehr gut auf einer Karte visualisiert werden.
 ### 2.4 Finanzen
 - Auf dem Aktienmarkt wird der Verlauf einer Aktie immer visualisiert um Trends oder Ausreißer zu erkennen.
 ### 2.5 Andere
-- Datenvisualisierungen sind in fast alle Feldern zu finden, die mit Datenbeschaffung, DAtenanalyse oder Datenspeicherung arbeiten.
+- Datenvisualisierungen sind in fast alle Feldern zu finden, die mit Datenbeschaffung, Daten Analyse oder Datenspeicherung arbeiten.
 
 
 ## 3 Vor- und Nachteile
 ### 3.1 Vorteile
 - Daten einfach verstehen, klar kommuniziert
 - Größeres Menge an Leute die deine Daten verstehen
-- Bilden fundierte Grundlage für Entschedungsfindung
+- Bilden fundierte Grundlage für Entscheidungsfindung
 #### 3.2 Nachteile
 - Zu abstrakt (Wichtige Sachverhalte können nicht erkennbar sein)
 - Kann zu Verzerrungen kommen
@@ -83,11 +83,11 @@ Aber was genau ist Datenvisualisierung?
 #### 4.1.7 
 - Die Datenvisualisierung sollte konkrete Handlungsoptionen aufzeigen
 ### 4.2 Fehler
-- Um kritische Fehler beim erstellen von DAtenvisualierungen zu vermeiden haben wir euch dieses Video rausgesucht, in dem es um die 7 Todsünden der Visualisierung geht.Hier geht es zum Video: 
+- Um kritische Fehler beim Erstellen von Datenvisualisierungen zu vermeiden haben wir euch dieses Video rausgesucht, in dem es um die 7 Todsünden der Visualisierung geht. Hier geht es zum Video: 
 - (https://www.youtube.com/watch?v=iqaJLHi92fA&list=WL&index=6&t=0s)
 
 ## 5 Formen von Datenvisualisierung
-- Im folgenden werden einigen Formen der Datenvisualisierung dargestellt. ES gibt natürlich noch mehr Areten der Visualisierung
+- Im Folgenden werden einigen Formen der Datenvisualisierung dargestellt. ES gibt natürlich noch mehr Arten der Visualisierung
 ### 5.1 Indikator
 ![Indikator](Abbildung_4.png)
 ### 5.2 Balkendiagramm
