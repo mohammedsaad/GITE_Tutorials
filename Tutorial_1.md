@@ -50,9 +50,9 @@ Aber was genau ist Datenvisualisierung?
 - In Zeiten von Big Data gehört die Datenanalyse zu den wohl wichtigsten Beschaftigungen in jeder so gu wie jeder Naturwisenschaft. Ob Mthematik, Informatik oder andere andere Naturwissenschaften, das Analysieren der Daten ist ezzeentiell um die Forschungsergebnisse zu belegen. Diese Ergebniss werden in fast alle Fällen als Visualisierung dargestellt um es auch dem Publikum verständlich zu machen, dass nicht so viel ERfahrung in dem Themenfeld hat.
 ### 2.3 Gesundheitswesen
 - Auch im Gesundheitswesen werden DAtenvisualisierungen genutzt. Zum Beispel die ausbreitung einer Krankheit kann sehr gut auf einer Karte visualisiert werden
-#### 2.4 Finanzen
+### 2.4 Finanzen
 - Auf dem Aktienmarkt wird der Verlauf einer Aktie immer visualisiert um Trends oder Ausreißer zu erkennen.
-#### 2.5 Andere
+### 2.5 Andere
 - Datenvisualisierungen sind in fast alle Feldern zu finden, die mit Datenbeschaffung, DAtenanalyse oder Datenspeicherung arbeiten.
 
 
