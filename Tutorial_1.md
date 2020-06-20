@@ -3,10 +3,10 @@
 
 ---
 
-## Content
+## Übersicht
 
 - [1 Intro](#1-intro)
-- [2 Nutzungsgebiet von Datenvisualisierungen](#2-Nutzungsgebiet von Datenvisualisierungen)
+- [2 Nutzungsgebiet von Datenvisualisierungen](#2-Nutzungsgebiet-von-Datenvisualisierungen)
   * [2.1 Politik](#21-Politik)
   * [2.2 Naturwissenschaft](#22-Naturwissenschaft)
   * [2.3 Gesundheitswesen](#23-Gesundheitswesen)
@@ -16,15 +16,15 @@
   * [3.1 Vorteile](#31-Vorteile)
   * [3.2 Nachteile](#32-Nachteile)
 - [4 Regeln](#4-Regeln)
-  * [4.1 Regeln für gute Datenvisualisierungen](#42-Regeln für gute Datenvisualisierungen)
+  * [4.1 Regeln für gute Datenvisualisierungen](#42-Regeln-für-gute-Datenvisualisierungen)
   * [4.2 Fehler](#42-Fehler)
 - [5 Formen](#4-Formen)
   * [5.1 Indikator](#51-Indikator)
   * [5.1 Balkendiagramm](#51-Balkendiagramm)
   * [5.1 Tortendiagramm](#51-Tortendiagramm)
   * [5.1 Flächendiagramm](#51-Flächendiagramm)
-  * [5.1 Scatter Chart](#51-Scatter Chart)
-  * [5.1 Area Map](#51-Area Map)
+  * [5.1 Scatter Chart](#51-Scatter-Chart)
+  * [5.1 Area Map](#51-Area-Map)
 
 
 
@@ -33,9 +33,9 @@
 
 ## 1 Introduction
 Was haben diese drei Bilder gemeinsam?
-[![Kartenvisualisierung](Abbildung_1.png)]
-[![Politikvisualisierung](Abbildung_2.png)]
-[![3D Visualisierung](Abbildung_3.png)]
+- ![Kartenvisualisierung](Abbildung_1.png)
+- ![Politikvisualisierung](Abbildung_2.jpg)
+- ![3D Visualisierung](Abbildung_3.jpg)
 - Die Antwort auf diese Frage ist, dass alle drei Abbildungen Daten visualisieren. 
 Aber was genau ist Datenvisualisierung?
 - Definiert wird Datenvisualierung als die grafische Darstellung von Informationen und Daten.
@@ -67,7 +67,7 @@ Aber was genau ist Datenvisualisierung?
 - Fehlinterpretationen
 
 ## 4 Regeln
-### 4.1 7 Regeln für gute Datenvisualisierungen
+### 4.1 Regeln für gute Datenvisualisierungen
 #### 4.1.1 
 - Die Datenvisualisierung sollte eine klare Botschaft haben
 #### 4.1.2 
@@ -83,19 +83,20 @@ Aber was genau ist Datenvisualisierung?
 #### 4.1.7 
 - Die Datenvisualisierung sollte konkrete Handlungsoptionen aufzeigen
 ### 4.2 Fehler
-- Um kritische Fehler beim erstellen von DAtenvisualierungen zu vermeiden haben wir euch dieses Video rausgesucht, in dem es um die 7 Todsünden der Visualisierung geht.[Hier geht es zum Video.] (https://www.youtube.com/watch?v=iqaJLHi92fA&list=WL&index=6&t=0s)
+- Um kritische Fehler beim erstellen von DAtenvisualierungen zu vermeiden haben wir euch dieses Video rausgesucht, in dem es um die 7 Todsünden der Visualisierung geht.Hier geht es zum Video: 
+- (https://www.youtube.com/watch?v=iqaJLHi92fA&list=WL&index=6&t=0s)
 
 ## 5 Formen von Datenvisualisierung
 - Im folgenden werden einigen Formen der Datenvisualisierung dargestellt. ES gibt natürlich noch mehr Areten der Visualisierung
 ### 5.1 Indikator
-- ! [Indikator][Abbildung_4.png]
+- ! [Indikator](Abbildung_4.png)
 ### 5.2 Balkendiagramm
-- ! [Balkendiagramm][Abbildung_5.png]
+- ! [Balkendiagramm](Abbildung_5.png)
 ### 5.3 Tortendiagramm
-- ! [Tortendiagramm][Abbildung_6.jpg]
+- ! [Tortendiagramm](Abbildung_6.jpg)
 ### 5.4 Flächendiagramm
-- ! [Flächendiagramm][Abbildung_7.png]
+- ! [Flächendiagramm](Abbildung_7.png)
 ### 5.5 Scatter Chart
-- ! [Scatter Chart][Abbildung_8.png]
+- ! [Scatter Chart](Abbildung_8.png)
 ### 5.6 Area Map
-- ! [Area Map][Abbildung_9.jpg]
+- ! [Area Map](Abbildung_9.jpg)
